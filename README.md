@@ -33,13 +33,13 @@ Example:
 7*3,21
 12-4,8
 ```
-➡️ Format: question,answer
-➡️ Example: 5+5,10
+➡️ Format: `question,answer`
+➡️ Example: `5+5,10`
 
 ## 🎮 Usage
 Run the program with default sample CSV file:
 ```bash
-  ./quiz -f quize.csv
+  ./quiz -f quiz.csv
 ```
 Runs the quiz using quiz.csv with 5 seconds per question.
 
